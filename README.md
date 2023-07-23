@@ -3,8 +3,8 @@
 
 Tech stack:
 
-HTML
-SCSS
-BEM
-JavaScript
-Eslint / Stylelint
+- HTML
+- SCSS
+- BEM
+- JavaScript
+- Eslint / Stylelint
